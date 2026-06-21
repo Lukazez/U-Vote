@@ -1,23 +1,11 @@
-# U-Vote
 
-Sistema de votacion digital universitaria.
+  # Diseñar plataforma U-Vote
 
-## Integrantes
-- Lukas Valdes
-- Nombre 2
-- Nombre
-- Nombre 
+  This is a code bundle for Diseñar plataforma U-Vote. The original project is available at https://www.figma.com/design/OYBcUr3bZFoDpBzRYskc8t/Dise%C3%B1ar-plataforma-U-Vote.
 
-## Herramienta utilizada
-- Figma
+  ## Running the code
 
-## Funcionalidades
-- Gestion de elecciones
-- Gestion de candidatos
-- Gestion de votantes
-- Emision de voto
-- Resultados
-- Auditoria
+  Run `npm i` to install the dependencies.
 
-## Enlace al prototipo
-(Pegar link de Figma)
+  Run `npm run dev` to start the development server.
+  
